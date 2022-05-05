@@ -21,4 +21,7 @@ After installing the above, move the Golang binaries to the /bin folder so that 
 ***Usage-***
 >***```bash recontool.sh target site```***
 
+### PS
+>This project was made using combination of tools made by [Tomnomnom](https://github.com/tomnomnom) 
+
 
