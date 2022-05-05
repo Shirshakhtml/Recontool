@@ -28,4 +28,5 @@ After installing the above, move the Golang binaries to the /bin folder so that 
 ### PS
 >This project was made using combination of tools made by [Tomnomnom](https://github.com/tomnomnom) 
 
-
+## Note-
+>*Everytime you run this tool you have to delete the files created as alive* and domains
