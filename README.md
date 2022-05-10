@@ -1,8 +1,10 @@
-![ootoRj3](https://user-images.githubusercontent.com/75179984/165590832-f0057119-7261-44cd-95df-36c409ca5d1e.png)
+![Tool](https://github.com/Shirshakhtml/Recontool/blob/main/tool.png?raw=true)
 # Recontool
 ## Recon tool in Bash for Subdomain Enumeration. This tool will help you find the alive domains from a set of non-working domains and print the list of domains with status codes.
 
 **Requirements:**
+
+- **Toilet and Figlet**- ```sudo apt install toilet figlet```
 
 - **Go**- ```sudo apt install golang```
 
@@ -23,7 +25,7 @@ After installing the above, move the Golang binaries to the /bin folder so that 
 - ```sudo cp httpx /usr/bin```
 
 ***Usage-***
->***```bash recontool.sh target site```***
+>***```bash recontool.sh target-site```***
 
 ### PS
 >This project was made using combination of tools made by [Tomnomnom](https://github.com/tomnomnom) 
