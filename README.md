@@ -17,7 +17,7 @@
   <img alt="Recontool" src="https://img.shields.io/github/stars/Shirshakhtml/Recontool">
   <img alt="Recontool" src="https://img.shields.io/github/issues/Shirshakhtml/Recontool">
   <img alt="Recontool" src="https://img.shields.io/github/license/Shirshakhtml/Recontool">
-  <img alt="Recontool" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FShirshakhtml%2FRecontool"> <br />  <br />
+  <img alt="Recontool" src="https://img.shields.io/github/languages/code-size/Shirshakhtml/Recontool"> <br />  <br />
 
 </div>
 
