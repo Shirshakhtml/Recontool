@@ -21,7 +21,7 @@
 
 </div>
 
-# About Recontool
+# Description
 
 *Recontool  is a new tool in Bash for Subdomain Enumeration. This tool will help you find the alive domains from a set of non-working domains and print the list of domains with status codes.*
 
