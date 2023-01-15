@@ -5,7 +5,7 @@
     <img src="./images/recontool-transparent.png" alt="Logo" height="135px">
   </a>
 
-  <h2 align="center">ReconTool</h2>
+  
   <p align="center">
     <a
       href="https://github.com/Shirshakhtml/Recontool/issues/new?assignees=&labels=bug">Report
