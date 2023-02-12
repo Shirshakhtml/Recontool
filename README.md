@@ -32,7 +32,8 @@
 - **HTTPROBE :** ```go install github.com/tomnomnom/httprobe@latest```
 - **Assetfinder :** ```go install github.com/tomnomnom/assetfinder@latest```
 - **Sublist3r :** ```sudo apt install sublist3r```
-- **HTTPX** (*requires go1.17*) **:** ```go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest```  
+- **HTTPX** (*requires go1.17*) **:** ```go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest```
+- **Katana** (*requires go1.17*) **:** ```go install github.com/projectdiscovery/katana/cmd/katana@latest```
 
 
 After installing the above, move the Golang binaries to the /bin folder so that we can use them independently from any shell (You need to be in ```/home/kali/go/bin``` directory)  
@@ -40,6 +41,7 @@ After installing the above, move the Golang binaries to the /bin folder so that 
 - ```sudo cp httprobe /usr/bin```
 - ```sudo cp assetfinder /usr/bin```
 - ```sudo cp httpx /usr/bin```
+- ```sudo cp katana /usr/bin```
   
 ## Usage 
 ```bash
