@@ -18,3 +18,6 @@ cat alive.txt | ~/go/bin/httpx -sc | tee -a domainswithstatuscode.txt
 #formatting the data to json
 cat alive.txt | python -c "import sys; import json; print (json.dumps({'domains':list(sys.stdin)}))" > alive.json
 cat domains.txt | python -c "import sys; import json; print (json.dumps({'domains':list(sys.stdin)}))" > domains.json
+#Crawling the Target
+sleep 3
+katana -list alive.txt
